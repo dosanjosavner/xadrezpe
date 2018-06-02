@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"veto",
+				"vetor_out"
+			],
+			[
+				"vetor_",
+				"vetor_out"
+			],
+			[
+				"ve",
+				"vetor4"
+			],
+			[
+				"vetor",
+				"vetor4"
+			],
+			[
+				"n",
+				"nrows"
+			],
+			[
+				"vet",
+				"vetor1"
+			],
+			[
+				"veo",
+				"vetor_in"
+			],
+			[
+				"en",
+				"endfunction"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Gabriel.pgn",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Gabriel6.pgn",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Gabriel4.pgn",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Gabriel5.pgn",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Gabriel3.pgn",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Gabriel5.psq",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/VIRT_Recife.pgn",
+		"/D/BACK/Downloads/Serial SWISSMANAGER.txt",
+		"/C/Users/Avner Augusto/Desktop/VIRT_Recife.pgn",
+		"/C/Users/Avner Augusto/Desktop/compiladores/Provas antigas/EE1/2015.1.txt",
+		"/C/Users/Avner Augusto/Desktop/Semicondutores/Listas/lista1.txt",
+		"/H/2/Célula solar.txt",
+		"/C/Users/Avner Augusto/Desktop/Semicondutores/Listas/lista2.txt",
+		"/C/Users/Avner Augusto/Desktop/Semicondutores/lista2.txt",
+		"/C/Users/Avner Augusto/Desktop/Semicondutores/lista1.txt",
+		"/C/Users/Avner Augusto/Downloads/How I Met Your Mother Season 9/How to play HEVC (THIS FILE).txt",
+		"/C/Users/Avner Augusto/Google Drive/Xadrez/Torneios/V IRT Recife/Jogadores.TXT",
+		"/C/Users/Avner Augusto/Google Drive (aaa4@cin.ufpe.br)/2018.1/Circuitos/Exercicios.txt",
+		"/C/resAP/Hello.g4",
+		"/C/resAP/AP1.g4",
+		"/C/Users/Avner Augusto/Desktop/compiladores/aulas práticas/ap1/README.txt",
+		"/C/Users/Avner Augusto/Downloads/Mathworks Matlab R2016a Incl Crack-=TEAM OS=-/readme.txt",
+		"/C/resAP/grun.bat",
+		"/C/resAP/antlr4.bat",
+		"/C/resAP/Exp.g4",
+		"/C/Users/Avner Augusto/Desktop/compiladores/aulas práticas/resoluções/ap1/Exp.g4",
+		"/C/Users/Avner Augusto/AppData/Local/Temp/Rar$DIa0.773/ch2ti1_trad.m",
+		"/C/Users/Avner Augusto/Desktop/oct/aplica.m",
+		"/C/Users/Avner Augusto/Desktop/Ideias pra vida",
+		"/C/Users/Avner Augusto/solucoes.txt",
+		"/C/Users/Avner Augusto/Desktop/projeto-spotify/index.html",
+		"/C/Users/Avner Augusto/Desktop/projeto-spotify/estilo.css",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/CursoWEB/projeto-Xadrez/index.html",
+		"/C/Users/Avner Augusto/Desktop/Nova pasta/Fonts.txt",
+		"/C/Users/Avner Augusto/Desktop/oct/atv.m",
+		"/C/Users/Avner Augusto/Desktop/oct/y1.m",
+		"/C/Users/Avner Augusto/Desktop/oct/y2.m",
+		"/C/Users/Avner Augusto/Desktop/oct/y3.m",
+		"/C/Users/Avner Augusto/Desktop/oct/proximos.m",
+		"/C/Users/Avner Augusto/Desktop/oct/prova.m",
+		"/C/Users/Avner Augusto/Desktop/oct/aplica1.m",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/CursoWEB/resumo.txt",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/CursoWEB/Aula1/forms.html",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/CursoWEB/Aula1/index.html",
+		"/C/Users/Avner Augusto/Desktop/prova.m",
+		"/C/Users/Avner Augusto/Desktop/atv.m",
+		"/D/CorelDraw X6 16.1.0.843 PT-BR 64 Bits + Ativador/CorelDraw X6 16.1.0.843 PT-BR 64 Bits + Ativador/KEYGEN/- Instruções -.txt",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/CursoWEB/Aula1/tabela.html",
+		"/C/Users/Avner Augusto/Desktop/Web/Aula1/index.html",
+		"/C/Users/Avner Augusto/Desktop/lista3.txt",
+		"/C/Users/Avner Augusto/Desktop/lista4.txt",
+		"/C/Users/Avner Augusto/Downloads/lista4.txt",
+		"/C/Users/Avner Augusto/Downloads/lista3.txt",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/Isytraff/Isytraff/semaphores.in",
+		"/C/Users/Avner Augusto/Desktop/Projetos_Git/Isytraff1/Isytraff/semaphores.in",
+		"/C/Users/Avner Augusto/Desktop/LEfinal.pgn",
+		"/C/Users/Avner Augusto/Downloads/LE.PGN"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "msdia80.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
